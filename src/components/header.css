@@ -1,0 +1,22 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  width: 90%;
+  margin-left: 2%;
+}
+.snist {
+  height: 3.2rem;
+  margin: 2em;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.container-nav {
+  display: block;
+  width: 100%;
+}
