@@ -17,7 +17,7 @@ function LoginPage() {
 
     try {
       const response = await axios.post(
-        "http://localhost:8000/api/signin",
+        "https://snist-hzjb.onrender.com/api/signin",
         data
       );
       localStorage.setItem("token", response.data.token);

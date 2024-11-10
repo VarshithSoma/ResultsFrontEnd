@@ -15,9 +15,12 @@ function ResultsPage() {
         return;
       }
       try {
-        const response = await axios.get("http://localhost:8000/api/myResult", {
-          headers: { Authorization: `Bearer ${token}` },
-        });
+        const response = await axios.get(
+          "https://snist-hzjb.onrender.com/api/myResult",
+          {
+            headers: { Authorization: `Bearer ${token}` },
+          }
+        );
         setData(response.data.data);
       } catch (error) {
         console.error("Error fetching results", error);
