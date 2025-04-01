@@ -9,8 +9,8 @@ The frontend communicates with a backend to retrieve data from an Excel sheet, w
 
 ## Backend
 
-[API: ](https://snist-hzjb.onrender.com)
-[GITHUB: ](https://github.com/VarshithSoma/Results-Backend)
+API: https://snist-hzjb.onrender.com
+GITHUB: https://github.com/VarshithSoma/Results-Backend
 
 ## Tech Stack FrontEnd
 
