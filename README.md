@@ -5,7 +5,7 @@ The frontend communicates with a backend to retrieve data from an Excel sheet, w
 
 ## Live
 
-[Link: ](https://snist.vercel.app/)
+Link: https://snist.vercel.app/
 
 ## Backend
 
